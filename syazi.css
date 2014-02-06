@@ -1,0 +1,27 @@
+#header {
+  text-align: center;
+}
+
+input[type="text"] {
+    width: 50%;
+}
+
+#footer {
+  text-align: center;
+}
+
+#result {
+  display: none;
+  margin: 2em auto;
+  padding: 1em 2em;
+  border: 1px #ccc solid;
+  width: 50%;
+  min-width: 400px;
+  min-height: 100px;
+  box-shadow: 4px 4px 8px #999;
+}
+
+#result p{
+  padding: 0 1em;
+  text-indent: 1em;
+}
