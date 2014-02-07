@@ -12,6 +12,9 @@ body {
   text-align: center;
 }
 
+form {
+  padding: 0 1em;
+}
 input[type="text"] {
     width: 50%;
 }
