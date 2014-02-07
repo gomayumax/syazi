@@ -15,12 +15,29 @@ input[type="text"] {
     width: 50%;
 }
 
+input[type="submit"] {
+  border-color: #645023;
+  background-color: #7C6025;
+  color: white;
+}
+
+input[type="submit"]:hover {
+  background-color: #645023;
+  color: white;
+}
+
+.slider-handle {
+  background: #7C6025;
+}
+
 #footer {
   text-align: center;
 }
 
 #result {
   display: none;
+  background-color: white;
+  color: #333;
   margin: 2em auto;
   padding: 1em 2em;
   border: 1px #ccc solid;
